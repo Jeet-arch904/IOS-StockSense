@@ -1,6 +1,5 @@
-//
-//  InvstApp.swift
-//  Invst
+// InvstApp.swift
+// Invst
 //
 //  Created by Jett Ehlert on 4/9/26.
 //
