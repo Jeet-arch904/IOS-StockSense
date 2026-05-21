@@ -68,6 +68,7 @@ struct LaunchView: View {
                         .frame(width:200, height:50)
                         .offset(y: +270)
                 }
+                
                 //External link for the offical website
                 Text("Visit Offical Website")
                     .font(.system(size: 13, weight: .bold))
